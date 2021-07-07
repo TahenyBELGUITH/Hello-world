@@ -1,18 +1,20 @@
+Project Name:
 # Hello-world
 
+Description:
+this is my first  Hello world project where I learn how  set up the HTML and CSS linters
 
-the Hello world project is the first project where we set up HTML and CSS linters
-![screenshot](./app_screenshot.png)
 
 
 ## Getting Started
+This is what I follow to build my project:
 
-*create a Github Repo with README file
-*clone it
-*cd to the folder
-*create a gitignore file
-*add it and commit it
-*set up the HTML and CSS linters
+-create a Github Repo with README file
+-clone it
+-create the folder
+-create a gitignore file
+-add it and commit it
+-install the modules and the packages 
 
 
 
@@ -23,8 +25,6 @@ the Hello world project is the first project where we set up HTML and CSS linter
 - GitHub: [@TahenyBELGUITH](https://github.com/TahenyBELGUITH)
 - Twitter: [@BelguithTaheny](https://twitter.com/BelguithTaheny)
 - LinkedIn: [belguith taheny](https://www.linkedin.com/in/belguith-taheny-47b93a162/)
-
-
 
 
 
